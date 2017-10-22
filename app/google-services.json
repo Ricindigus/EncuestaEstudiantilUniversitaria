@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508344808311",
+    "firebase_url": "https://encuesta-estudiantil-d30f2.firebaseio.com",
+    "project_id": "encuesta-estudiantil-d30f2",
+    "storage_bucket": "encuesta-estudiantil-d30f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508344808311:android:2389e52b1b57c0a4",
+        "android_client_info": {
+          "package_name": "com.encuesta.alarcon.elias.encuestaestudiantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508344808311-ce15ggd6ns9blg47um3aff3bfjrkufti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encuesta.alarcon.elias.encuestaestudiantil",
+            "certificate_hash": "13e64ba640a35eaf9fd50b39d46e558360bcd722"
+          }
+        },
+        {
+          "client_id": "508344808311-6m2dtsu0eh1v0p7a5j0fsqjj8sk4tbs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcUnPV3-ZZAev0wWaGQJW3Z5ha4uIhbhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508344808311-6m2dtsu0eh1v0p7a5j0fsqjj8sk4tbs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
